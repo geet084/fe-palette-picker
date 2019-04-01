@@ -9,7 +9,7 @@
 - For testing suite: ```npm test``` 
 
 ## Installation Steps (Front End)
-- Clone this repo: ```https://github.com/ericweissman/fe-palette-picker.git```
+- Clone this repo: ```https://github.com/geet084/fe-palette-picker.git```
 - Install dependencies: ```npm install```
 - Start Local Host 3000: ```npm start```
 - For testing suite: ```npm test```
